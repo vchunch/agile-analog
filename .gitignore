@@ -1,0 +1,26 @@
+.terraform
+.tmp/
+.sass-cache/
+.DS_Store
+node_modules
+*.tar.gz
+npm-debug.log
+logs/
+.idea/
+.nyc_output
+coverage
+.env
+.vscode/
+.terraform/
+# Ignore all TF state files
+terraform.tfstate
+terraform.tfstate.backup
+bin/ansible_setup/.cms-events-bancs-adapter-vault-key
+Jenkinsfile
+cms-ldap-retention-processor.zip
+cms-base-layer.zip
+command.txt
+.terraform.lock.hcl
+mykey
+mykey.pub
+
